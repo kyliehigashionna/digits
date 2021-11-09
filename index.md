@@ -95,6 +95,12 @@ From the List Contacts page, the user can click the “Edit” link associated w
 
 <img src="doc/editcontacts.png">
 
+#### Add Contacts
+
+From the Add Contacts page, the user can click the “Add Contact” tab to bring up a page that allows the user to fillin the contact information for first name, last name, address, image, and description:
+
+<img src="doc/addcontact.png">
+
 #### Admin mode
 
 It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they get access to a special NavBar link that retrieves a page listing all Contacts associated with all users:
